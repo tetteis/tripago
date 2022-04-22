@@ -2,6 +2,21 @@
 
 A basic React project to filter trips and also hide them.
 
+## Running the project
+
+To run the project first start the db.json server:
+
+### `json-server --watch ./data/db.json`
+
+Afterwards you then start your React app by running:
+
+### `npm start`
+
+You will be warned that an app is already using the port **3000**
+
+Just choose yes to run your app on a new ports which will be **3001**
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
