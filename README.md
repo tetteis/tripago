@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Tripago
+
+A basic React project to filter trips and also hide them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
