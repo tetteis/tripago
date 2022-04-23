@@ -16,7 +16,6 @@ You will be warned that an app is already using the port **3000**
 
 Just choose yes to run your app on a new ports which will be **3001**
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
